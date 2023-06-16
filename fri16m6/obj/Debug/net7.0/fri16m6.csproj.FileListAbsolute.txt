@@ -1,0 +1,15 @@
+D:\C#\fri16m6\fri16m6\bin\Debug\net7.0\fri16m6.exe
+D:\C#\fri16m6\fri16m6\bin\Debug\net7.0\fri16m6.deps.json
+D:\C#\fri16m6\fri16m6\bin\Debug\net7.0\fri16m6.runtimeconfig.json
+D:\C#\fri16m6\fri16m6\bin\Debug\net7.0\fri16m6.dll
+D:\C#\fri16m6\fri16m6\bin\Debug\net7.0\fri16m6.pdb
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.csproj.AssemblyReference.cache
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.AssemblyInfoInputs.cache
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.AssemblyInfo.cs
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.csproj.CoreCompileInputs.cache
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.dll
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\refint\fri16m6.dll
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.pdb
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\fri16m6.genruntimeconfig.cache
+D:\C#\fri16m6\fri16m6\obj\Debug\net7.0\ref\fri16m6.dll
